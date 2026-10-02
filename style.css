@@ -1,0 +1,545 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@700;800&display=swap');
+
+*{
+    box-sizing: border-box;
+}
+body{
+    background-color: #ffffff;
+    font-family: "Poppins", sans-serif;
+}
+.deve{
+    /* background-color: #FFFFFF; */
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    /* margin: 0 40px; */
+    padding: 0 100px;
+    /* width: 1200px; */
+    /* border: 2px solid red; */
+}
+.deve a{
+    color: black;
+    background-color: none;
+/* font-size: 16px; */
+
+text-decoration: none;
+}
+.walayi{
+    background-color: #4487DB;
+    border-radius: 30px;
+    padding: 6px 35px;
+    text-align: center;
+    /* text-decoration: none; */
+    color: #4487DB !important ;
+    /* display: none; */
+}
+.walayi:hover{
+    color: #FFFFFF !important;
+}
+.agada{
+    /* border: 2px solid red; */
+    margin-top: -4px;
+    /* background-color: pink; */
+    /* height: 600px; */
+    background-image: url(iririririr.jpg);
+    min-height: 700px;
+    background-size: cover;
+    background-position: center;
+    /* background-position:20%; */
+
+
+}
+.dads{
+    display: flex;
+    flex-direction: column;
+    /* margin: 50px 10px; */
+    padding-left: 210px;
+    padding-top: 430px;
+    color: white;
+}
+.odd{
+    font-size: 40px;
+    font-weight: 600;
+}
+.lovet{
+    margin-bottom: 50px;
+}
+.dads a{
+    background-color: #4487DB;
+}
+.agada a{
+    border: 3px solid #4487DB;
+    border-radius: 30px;
+    background-image: url(https://sheleadsafrica.org/wp-content/uploads/2023/11/pattern-bg.jpg);
+    text-decoration: none;
+    padding: 10px 20px;
+    color: #FFFFFF;
+}
+.ole{
+    background-color: #4487DB;
+    margin-top: 20px;
+}
+.flex-parent{
+    /* border: 2px solid red; */
+    display: flex;
+    justify-content: space-between;
+    color: #FFFFFF;
+    padding: 70px 60px;
+    /* margin:50px ; */
+} 
+.obasanjo{
+    padding-top: 25px;
+}
+.obasanjo a{
+border: 2px solid white;
+border-radius: 20px;
+padding: 5px 30px;
+background-color: #FFFFFF;
+color: #6F9BC5;
+}
+.akibo{
+    padding-bottom: 40px;
+}
+.brush{
+    font-size: 60px;
+    font-weight: 700;
+    padding-bottom: 35px;
+}
+.enni{
+    font-size: 16px;
+    font-weight: 400;
+    padding-bottom: 30px;
+}
+.jush{
+   font-size: 60px;
+    font-weight: 700;
+    padding-bottom: 18px;
+}
+.jushh{
+     font-size: 60px;
+    font-weight: 700;
+    padding-bottom: 10px; 
+}
+.ennii{
+    font-size: 16px;
+    font-weight: 400;
+    padding-bottom: 16px;
+}
+.comb{
+ font-size: 60px;
+font-weight: 700;
+  padding-bottom: 30px;
+}
+.obaa{
+    background-color: white;
+}
+.ijoye{
+    /* border: 2px solid red; */
+    display: flex;
+    justify-content: space-between;
+}
+.oyoy{
+    background-color: #407FCD;
+    /* border: 2px solid black; */
+    border-radius: 3px;
+    margin-top: 20px;
+    margin-left: 100px;
+    margin-right: 20px;
+    text-align: center;
+    padding: 3px 25px;
+    margin-bottom: 420px;
+    /* color: #407FCD !important;
+    text-decoration: none; */
+}
+.oyoy a{
+   text-decoration: none;
+    color: #4487DB !important; 
+}
+.oyoy a:hover{
+    color: #ffffff !important;
+}
+.bernado{
+    /* border: 2px solid indigo; */
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-right: 150px;
+    padding-bottom: 50px;
+}
+.vivid{
+    /* border: 2px solid red; */
+    display: flex;
+    justify-content: space-between;
+}
+.spade{
+    background-color: #C0E7FE;
+    border-radius: 10px;
+    padding: 0 20px;
+    /* padding-right: -500px; */
+    /* margin-left: 100px; */
+    /* margin-top: 10px; */
+    /* color: #659AE2; */
+}
+/* .shocc{
+font-size: 44px;
+font-weight: 700;
+margin-left: 100px;
+font-family: sans-serif;
+} */
+.joiniu{
+    border: 2px solid #4487DB;
+    background-color: #4487DB;
+    border-radius: 30px;
+    margin-right: 50px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    padding: 10px 40px;
+    font-family: sans-serif;
+}
+.joiniu a{
+    text-decoration: none;
+    color: #FFFFFF;
+}
+.joiniu:hover{
+    border: 4px solid #4487DB;
+    background-color: #FFFFFF;
+    color: #4487DB;
+}
+.joiniu a:hover{
+    color: #4487DB;
+}
+.dade{
+    /* border: 2px solid brown; */
+    display: flex;
+    justify-content: space-between;
+    margin: 0 70px;
+}
+.popo{
+display: flex;
+background-color: #4487DB;
+/* margin: 15px 30px; */
+border-radius: 20px;
+/* font-family: sans-serif; */
+}
+.popo img{
+    margin-left: 20px;
+    margin-top: 20px;
+}
+.stsew{
+    font-size: 20px;
+    font-weight: 700;
+    color: #EEEEEE;
+    padding-bottom: 10px;
+}
+.pices{
+    margin-left: 20px;
+    margin-top: 20px;
+    margin-right: 40px;
+    /* margin-bottom: 30px; */
+    color: #EEEEEE;
+}
+.excelent{
+    display: flex;
+    background-color: #EEEEEE;
+    border-radius: 20px;
+    /* margin: 15px 30px; */
+
+}
+.excelent img{
+    width: 50px;
+    height: 50px;
+      margin-left: 20px;
+    margin-top: 20px;
+}
+.casee{
+     font-size: 20px;
+    font-weight: 700;
+    color: black;
+    padding-bottom: 10px;
+}
+.train{
+      margin-left: 20px;
+    margin-top: 20px;
+    margin-right: 40px;
+    margin-bottom: 70px;
+}
+.palmm{
+    display: flex;
+    background-color: #EEEEEE;
+    border-radius: 20px;
+      /* margin: 15px 30px; */
+}
+.palmm img{
+     width: 50px;
+    height: 50px;
+      margin-left: 20px;
+    margin-top: 20px;
+}
+.plain{
+    padding: 20px;
+}
+.spread{
+     font-size: 20px;
+    font-weight: 700;
+    color: black;
+    padding-bottom: 10px;
+}
+.bilikisu{
+    /* border: 2px solid red; */
+      /* margin: 50px 70px; */
+      margin-top: 80px;
+      margin-bottom: 50px;
+      margin-left: 70px;
+      margin-right: 70px;
+      background-color: #F0F0F0;
+}
+.bilikisu p{
+    margin-left: 520px;
+    color: #4987DB;
+    font-size: 20px;
+    font-weight: 700;
+}
+.rodri{
+    /* display: flex; */
+    justify-content: space-between;
+}
+.rodri a{
+    margin-left: 30px;
+}
+.rodri img{
+   margin-left: 70px ;
+   opacity: 30%; 
+}
+.lower{
+   background-color: #ffffff;
+}
+.flower{
+   display: flex;
+   gap: 5%;
+}
+.flowerr img{
+    width: 400px;
+    margin-left: 180px;
+    margin-top: 20px;
+    /* border: 2px solid red; */
+}
+.flowers h2{
+  font-size: 45px;
+   /* font-family: sans-serif; */
+}
+.flowers p{
+    /* font-family: sans-serif; */
+    margin-top: -40px;
+    font-size: 16px;
+    font-weight: 400;
+}
+.flowers a{
+    background-color: black;
+     /* font-family: sans-serif; */
+    font-size: 16px;
+    font-weight: 400;
+    border-radius: 30px;
+    padding: 10px 20px;
+    text-decoration: none;
+    color: #ffffff;
+}
+.fower{
+    display: flex;
+    /* border: 2px solid red; */
+    gap: 250px;
+    padding-right: 50px;
+}
+.fower img{
+     width: 350px;
+    margin-left: 80px;
+    margin-top: 20px;
+    /* border: 2px solid red; */
+}
+.fower h2{
+     font-family: sans-serif;
+     font-size: 45px;
+}
+.fowers p{
+    /* font-family: sans-serif; */
+ margin-top: -40px;
+    font-size: 16px;
+    font-weight: 400;
+}
+.foer{
+  background-color: black;
+     /* font-family: sans-serif; */
+    font-size: 16px;
+    font-weight: 400;
+    border-radius: 30px;
+    padding: 10px 20px;
+    text-decoration: none;
+    color: #2A4DA6;
+}
+.foer:hover{
+    color: white;
+}
+.wower{
+    display: flex;
+    /* border: 2px solid red; */
+     gap: 60px;
+}
+.wower img{
+    width: 400px;
+     margin-left: 180px;
+    /* margin-top: 20px; */
+}
+.woer h2{
+    margin-top: 70px;
+    margin-bottom: -5px;
+    font-size: 45px;
+}
+.woer p{
+     /* margin-top: 40px; */
+    font-size: 16px;
+    font-weight: 400;
+}
+.woer{
+ padding-top: px;
+}
+.woer a{
+    color: #2A4DA6;
+    background-color: black;
+    border-radius: 30px;
+    padding: 10px 20px;
+    text-decoration: none;
+}
+.crystai{
+    margin-left: 100px;
+    margin-right: 100px;
+}
+.anifast{
+display: flex;
+justify-content: space-between;
+  margin-left: 100px;
+  margin-right: 100px;
+}
+.anif span{
+background-color: #C0E7FE;
+border-radius: 20px;
+padding: 5px 30px;
+}
+.anif h2{
+    font-size: 35px;
+}
+.aniff{
+    background-color: #4487DB;
+    border: 4px solid #4487DB;
+    margin-top: 10px;
+    margin-bottom: 100px;
+    padding: 10px 20px;
+    border-radius: 30px;
+}
+.aniff a{
+    text-decoration: none;
+        color: white;
+}
+.aniff a:hover{
+    color: #4487DB;
+    /* background-color: #FFFFFF; */
+}
+.aniff:hover{
+    background-color: #FFFFFF;
+}
+.gridcontain{
+    display: flex;
+    gap: 50px;
+    /* justify-content: space-between; */
+    margin-left: 200px;
+}
+.gridd img{
+    width: 500px;
+    margin-right: 50px;
+    margin-left: -50px;
+}
+.gridd a{
+    margin-left: -50px;
+    color: #4487DB;
+    font-size: 20px;
+}
+.gridy img{
+     width: 500px;
+}
+.gridy a{
+    color: #4487DB;
+    font-size: 20px;
+}
+.background{
+    background-image: url(pattern-bg.jpg);
+    background-size: cover;
+    background-position: center;
+    min-height: 450px;
+    padding-top: 100px;
+}
+.back{
+    color: #4487DB;
+    background-color: #C0E7FE;
+    border-radius: 20px;
+    padding: 5px 30px;
+    text-align: center;
+    margin: 5px 650px;
+
+}
+.background h2{
+    text-align: center;
+    font-size: 20px;
+}
+/* .email-box {
+    width: 570px;
+    height: 48px;
+    border: 2px solid white;
+    border-radius: 30px;
+    display: flex;
+    align-items: center;
+    overflow: hidden;
+}
+
+.email-box input {
+    flex: 1;
+    height: 100%;
+    border: none;
+    outline: none;
+    background: transparent;
+    padding-left: 12px;
+    color: white;
+    font-size: 14px;
+}
+
+.email-box input::placeholder {
+    color: white;
+}
+
+.email-box button {
+    width: 90px;
+    height: 48px;
+    border: 1px solid white;
+    border-radius: 30px;
+    background: #2698e5;
+    color: white;
+    font-size: 14px;
+    cursor: pointer;
+} */
+.dadaa{
+    background-color: #000000;
+
+} 
+.daddds{
+    display: flex;
+    justify-content: space-between;
+    padding: 70px 100px;
+    border: 2px solid red;
+}
+.sadd{
+    border: 2px solid green;
+}
+.sadd h3{
+  color: white;
+  font-size: 25px;
+}
+.sadd img{
+    color: white;
+    
+}
