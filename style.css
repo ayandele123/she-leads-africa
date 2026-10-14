@@ -12,7 +12,7 @@ body{
     display: flex;
     justify-content: space-between;
     align-items: center;
-    /* margin: 0 40px; */
+    margin: 0 0 10px 0;
     padding: 0 100px;
     /* width: 1200px; */
     /* border: 2px solid red; */
@@ -478,68 +478,88 @@ padding: 5px 30px;
     color: #4487DB;
     background-color: #C0E7FE;
     border-radius: 20px;
-    padding: 5px 30px;
+    padding: 5px 20px;
     text-align: center;
-    margin: 5px 650px;
+    width: 400px;
+    margin: 5px 0 0 460px;
+    /* text-align: center; */
 
 }
 .background h2{
     text-align: center;
     font-size: 20px;
+    color: white;
 }
-/* .email-box {
-    width: 570px;
-    height: 48px;
+
+
+.input-box{
+margin-left: 460px;
+}
+
+.input-box input{
+    background-color: transparent;
     border: 2px solid white;
-    border-radius: 30px;
-    display: flex;
-    align-items: center;
-    overflow: hidden;
-}
-
-.email-box input {
-    flex: 1;
-    height: 100%;
-    border: none;
     outline: none;
-    background: transparent;
-    padding-left: 12px;
-    color: white;
-    font-size: 14px;
-}
-
-.email-box input::placeholder {
-    color: white;
-}
-
-.email-box button {
-    width: 90px;
-    height: 48px;
-    border: 1px solid white;
     border-radius: 30px;
-    background: #2698e5;
-    color: white;
-    font-size: 14px;
-    cursor: pointer;
-} */
-.dadaa{
-    background-color: #000000;
-
-} 
-.daddds{
-    display: flex;
-    justify-content: space-between;
-    padding: 70px 100px;
-    border: 2px solid red;
-}
-.sadd{
-    border: 2px solid green;
-}
-.sadd h3{
-  color: white;
-  font-size: 25px;
-}
-.sadd img{
-    color: white;
+    position: relative;
+    padding: 15px 10px 15px 10px;
+    width:520px;
     
+}
+.input-box input::placeholder{
+    font-size: 15px;
+    color: white;
+}
+.input-box a{
+    color: white;
+    text-decoration: none;
+    background-color: #579AF6;
+    padding: 13px 20px;
+    border-radius: 30px;
+    position: absolute;
+    left: 887px;
+}
+.input-box a:hover{
+    background-color: white;
+    color: #444444;
+}
+.footer{
+    background-color: black;
+    padding: 50px 80px;
+}
+.footerr{
+    display: flex;
+    /* border: 2px solid red; */
+    color: white;
+    gap: 100px;
+}
+.foter{
+    margin-top: 15px;
+}
+.footerrr{
+margin-top: 15px;
+}
+.footerrr a{
+color: white;
+font-size: 14px;
+text-decoration: none;
+}
+.rema{
+    /* font-size: 20px; */
+    font-weight: 100;
+    margin-bottom: 10px;
+}
+.fra{
+    color: white;
+    margin-top: 50px;
+    font-size: 14px;
+    text-align: center;
+}
+.fter img:nth-child(1){
+    width: 20px;
+    filter: grayscale(100%);
+}
+.fter img:nth-child(2){
+    width: 20px;
+    height: 200px;
 }
