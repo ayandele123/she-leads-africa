@@ -96,7 +96,9 @@ border-radius: 20px;
 padding: 5px 30px;
 background-color: #FFFFFF;
 color: #6F9BC5;
+text-decoration: none;
 }
+
 .akibo{
     padding-bottom: 40px;
 }
